@@ -1,0 +1,41 @@
+[33mcommit dd2979f9609ce45e6739a9e07b895342efa62956[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mBasics-materials/master[m[33m)[m
+Author: Mikko Luhtasaari <mikko.luhtasaari@tuni.fi>
+Date:   Tue May 12 13:11:49 2020 +0300
+
+    Add file to test settings
+
+[33mcommit 4e6605f7f49a0c6632248c60145f2da46addc89a[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:47:54 2019 -0700
+
+    A simple test
+
+[33mcommit 07291091b01a983d256488357b263ddb087d0188[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:14:09 2019 -0700
+
+    Removed debug-prints
+
+[33mcommit dd8c56cede9b109c1df7bda13abc1b1b7b79ed0b[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:12:41 2019 -0700
+
+    Merge-sort
+
+[33mcommit b6fd9edcecad84d37e52e93a9acbd02233163316[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:47:04 2019 -0700
+
+    Strings to integers
+
+[33mcommit be5d6373836d9d693c1d9e1dffb518f9331e4ff8[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:41:24 2019 -0700
+
+    Basic input
+
+[33mcommit e1b91edb8eeeee33b43c93653e3419a14efedd5f[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:22:41 2019 -0700
+
+    Initial commit.
